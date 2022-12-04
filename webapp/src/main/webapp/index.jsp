@@ -19,7 +19,7 @@
 					<td><input type="text" name="last_name" /></td>
 				</tr>
 				<tr>
-					<td>UserName</td>
+					<td>UserNaam</td>
 					<td><input type="text" name="username" /></td>
 				</tr>
 				<tr>
